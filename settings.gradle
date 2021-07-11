@@ -1,0 +1,3 @@
+include ':AKEncryption'
+include ':app'
+rootProject.name = "AKEncryptionExample"
